@@ -9,4 +9,6 @@ Tools and techniques used:
     - Kali Linux
   - nmap
   - searchsploit
-  - Metasploit (msfconsole, meterpreter)    
+  - Metasploit
+    - msfconsole
+    - meterpreter 
